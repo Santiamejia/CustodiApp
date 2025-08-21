@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "390532116073",
+    "project_id": "custodiapp-60f52",
+    "storage_bucket": "custodiapp-60f52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390532116073:android:b1edd8e2c1f1b5dd67bcf8",
+        "android_client_info": {
+          "package_name": "com.santiagoM.custodiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8t1c6HeGWcxMHYc-7h2UNjCGBkXLJEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        },
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390532116073:android:b9a26a6a17bb6ccc67bcf8",
+        "android_client_info": {
+          "package_name": "com.santiagomejia.custodiado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8t1c6HeGWcxMHYc-7h2UNjCGBkXLJEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390532116073:android:228cb8fff51016af67bcf8",
+        "android_client_info": {
+          "package_name": "com.santiagomejia.custodiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8t1c6HeGWcxMHYc-7h2UNjCGBkXLJEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
